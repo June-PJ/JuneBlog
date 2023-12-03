@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: June's Blog
+subtitle: '个人生活记录'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: June-PJ
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,3 +103,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
