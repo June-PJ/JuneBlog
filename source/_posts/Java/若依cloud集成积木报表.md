@@ -11,6 +11,8 @@ cover: https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/ruoyi.png
 
 我项目里采用的是新建一个报表模块，参考的是：辰鬼丫 - [若依Cloud集成积木报表](https://blog.csdn.net/athwang/article/details/127218202)
 
+**本文章默认已经启动了ruoyi-cloud项目**
+
 若依开发文档 - [若依Cloud开发文档](http://doc.ruoyi.vip/ruoyi-cloud/)
 
 积木报表 - [ruoyi单体版集成积木报表](https://help.jeecg.com/jimureport/ruoyi.html)
