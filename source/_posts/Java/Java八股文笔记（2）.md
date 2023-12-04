@@ -2,6 +2,11 @@
 title: Java八股文笔记（2）
 date: '2023-07-05 11:37:53'
 description: 面试小抄，Java八股文笔记
+categories: 
+   - Java
+tags:
+   - Java
+   - 面经
 ---
 
 ## 1. ArrayList

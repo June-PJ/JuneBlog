@@ -2,6 +2,11 @@
 title: Java八股文笔记（1）
 date: '2023-07-03 16:21:15'
 description: 面试小抄，Java八股文笔记
+categories: 
+  - Java
+tags:
+  - Java
+  - 面经
 ---
 
 ## 1. 面向对象三大特征

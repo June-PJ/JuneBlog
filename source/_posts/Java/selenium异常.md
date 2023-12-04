@@ -2,6 +2,12 @@
 title: selenium异常
 date: '2023-04-09 18:22:26'
 description: "selenium异常：Exception in thread “main“ org.openqa.selenium.remote.http.ConnectionFailedException: Una"
+categories: 
+  - Java
+tags:
+  - Java
+  - Selenium
+  - 爬虫
 ---
 
 ## 前言

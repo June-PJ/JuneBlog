@@ -2,6 +2,11 @@
 title: Hexo博客搭建
 date: 2023-12-03 15:46:34
 description: 基于Hexo的个人博客搭建
+categories:
+  - 博客搭建
+tags:
+  - 博客搭建
+  - Hexo
 ---
 
 ## 1. Hexo安装

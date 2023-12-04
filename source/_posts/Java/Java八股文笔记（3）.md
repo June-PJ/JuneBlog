@@ -2,6 +2,11 @@
 title: Java八股文笔记（3）
 date: '2023-07-08 16:21:37'
 description: 面试小抄，Java八股文笔记
+categories: 
+  - Java
+tags:
+  - Java
+  - 面经
 ---
 
 ## HashMap常问面试题

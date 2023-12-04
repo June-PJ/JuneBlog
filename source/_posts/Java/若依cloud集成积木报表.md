@@ -3,6 +3,13 @@ title: 若依cloud集成积木报表
 date: '2023-04-05 19:16:22'
 description: 若依cloud集成积木报表
 cover: https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/ruoyi.png
+categories: 
+  - Java
+tags:
+  - Java
+  - 若依
+  - 微服务
+  - 积木报表
 ---
 
 ## 前言

@@ -3,6 +3,12 @@ title: Ubuntu10.10在高版本VMware Workstation中安装的VMware Tools无法�
 date: '2023-04-21 10:28:16'
 description: "高版本VMware Workstation的VMware Tools不兼容问题"
 cover: https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/Ubuntu.jpg
+categories:
+  - Ubuntu
+tags:
+  - Ubuntu
+  - VMware
+  - VMware Tools
 ---
 
 ## 1.原因

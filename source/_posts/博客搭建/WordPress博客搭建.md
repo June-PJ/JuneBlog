@@ -3,6 +3,11 @@ title: WordPress博客搭建
 date: 2023-03-17 11:12:43
 description: 基于WordPress的个人博客搭建
 cover: https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/wordpress-1024x576.webp
+categories:
+  - 博客搭建
+tags:
+  - 博客搭建
+  - WordPress
 ---
 
 ## 前言

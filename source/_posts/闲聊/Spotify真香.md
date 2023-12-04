@@ -2,6 +2,11 @@
 title: Spotify真香
 date: 2023-05-14 15:32:28
 description: Spotify使用
+categories:
+  - 闲聊
+tags:
+  - 闲聊
+  - Spotify
 ---
 
 ## 前言

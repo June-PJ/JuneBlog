@@ -3,6 +3,11 @@ title: MySQL 部分函数用法
 date: '2023-04-06 18:54:16'
 description: "MySQL 部分函数用法，记录作者刷力扣MySQL时遇到的一些没见过的函数"
 cover: https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/mysql-1.png
+categories:
+  - MySQL
+tags:
+  - MySQL
+  - 函数
 ---
 
 ## 前言
