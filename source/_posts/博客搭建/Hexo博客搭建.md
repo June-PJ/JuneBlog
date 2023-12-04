@@ -76,3 +76,17 @@ git clone -b master https://gitee.com/immyw/hexo-theme-butterfly.git themes/butt
 npm install
 ```
 
+### 3. 修改配置
+
+将主题目录下的`_config.yml`文件复制到hexo根目录，并改名为`_config.butterfly.yml`
+
+修改根目录下的`_config.yml`文件
+```
+theme: butterfly
+```
+
+![image-20231204222621498](https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/image-20231204222621498.png)
+
+## 3. 主题优化
+
+详细见https://butterfly.js.org/
