@@ -487,7 +487,7 @@ crisp:
 messenger:
   enable: false
   pageID:
-  lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
+  lang: zh_CN # Language en_US/zh_CN/zh_TW and so on
 
 # Footer Settings
 # --------------------------------------
@@ -495,7 +495,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text: <div><a href="https://beian.miit.gov.cn/"><span>备案号：湘ICP备2023003198号</span></a></div><div>遇事不决，可问春风</div>
+  custom_text: <div><a href="https://beian.miit.gov.cn/"><span>湘ICP备2023003198号</span></a></div><div>遇事不决，可问春风</div>
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -775,7 +775,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 2023/12/03 20:00:00
+  publish_date: 2023/12/02 20:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
