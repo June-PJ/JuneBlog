@@ -942,12 +942,14 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+   - <link rel="stylesheet" href="/css/color.css">
    - <link rel="stylesheet" href="/css/style.css">
    - <link rel="stylesheet" href="/css/cursors.css">
    - <link rel="stylesheet" href="/css/scrollbar.css">
-   - <link rel="stylesheet" href="/css/navigationbar.css">
+   - <link rel="stylesheet" href="/css/nav.css">
   bottom:
-  # - <script src="xxxx"></script>
+    - <script type="text/javascript" src="https://unpkg.zhimg.com/jquery@latest/dist/jquery.min.js"></script> #一定要放在所有引入的js前面！！！
+    - <script data-pjax type="text/javascript" src="/css/nav.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
