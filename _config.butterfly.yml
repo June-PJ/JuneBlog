@@ -92,11 +92,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: ./img/avatar.jpg
+favicon: ./static/img/avatar.jpg
 
 # Avatar (頭像)
 avatar:
-  img: ./img/avatar.jpg
+  img: ./static/img/avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -106,7 +106,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: ./img/bg.png
+default_top_img: ./static/img/bg.png
 
 # The banner image of archive page
 archive_img:
@@ -140,57 +140,57 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
   # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - ./img/cover/1.png
-    - ./img/cover/2.png
-    - ./img/cover/3.png
-    - ./img/cover/4.png
-    - ./img/cover/5.png
-    - ./img/cover/7.png
-    - ./img/cover/8.png
-    - ./img/cover/9.png
-    - ./img/cover/10.png
-    - ./img/cover/11.png
-    - ./img/cover/12.png
-    - ./img/cover/13.png
-    - ./img/cover/14.png
-    - ./img/cover/15.png
-    - ./img/cover/16.png
-    - ./img/cover/17.png
-    - ./img/cover/18.png
-    - ./img/cover/19.png
-    - ./img/cover/20.png
-    - ./img/cover/21.png
-    - ./img/cover/22.png
-    - ./img/cover/23.png
-    - ./img/cover/24.png
-    - ./img/cover/25.png
-    - ./img/cover/26.png
-    - ./img/cover/27.png
-    - ./img/cover/28.png
-    - ./img/cover/29.png
-    - ./img/cover/30.png
-    - ./img/cover/31.png
-    - ./img/cover/32.png
-    - ./img/cover/33.png
-    - ./img/cover/34.png
-    - ./img/cover/35.png
-    - ./img/cover/36.png
-    - ./img/cover/37.png
-    - ./img/cover/38.png
-    - ./img/cover/39.png
-    - ./img/cover/40.png
-    - ./img/cover/41.png
-    - ./img/cover/42.png
-    - ./img/cover/43.png
-    - ./img/cover/44.png
-    - ./img/cover/45.png
-    - ./img/cover/46.png
-    - ./img/cover/47.png
-    - ./img/cover/48.png
-    - ./img/cover/49.png
-    - ./img/cover/50.png
-    - ./img/cover/51.png
-    - ./img/cover/52.png
+    - ./static/img/cover/1.png
+    - ./static/img/cover/2.png
+    - ./static/img/cover/3.png
+    - ./static/img/cover/4.png
+    - ./static/img/cover/5.png
+    - ./static/img/cover/7.png
+    - ./static/img/cover/8.png
+    - ./static/img/cover/9.png
+    - ./static/img/cover/10.png
+    - ./static/img/cover/11.png
+    - ./static/img/cover/12.png
+    - ./static/img/cover/13.png
+    - ./static/img/cover/14.png
+    - ./static/img/cover/15.png
+    - ./static/img/cover/16.png
+    - ./static/img/cover/17.png
+    - ./static/img/cover/18.png
+    - ./static/img/cover/19.png
+    - ./static/img/cover/20.png
+    - ./static/img/cover/21.png
+    - ./static/img/cover/22.png
+    - ./static/img/cover/23.png
+    - ./static/img/cover/24.png
+    - ./static/img/cover/25.png
+    - ./static/img/cover/26.png
+    - ./static/img/cover/27.png
+    - ./static/img/cover/28.png
+    - ./static/img/cover/29.png
+    - ./static/img/cover/30.png
+    - ./static/img/cover/31.png
+    - ./static/img/cover/32.png
+    - ./static/img/cover/33.png
+    - ./static/img/cover/34.png
+    - ./static/img/cover/35.png
+    - ./static/img/cover/36.png
+    - ./static/img/cover/37.png
+    - ./static/img/cover/38.png
+    - ./static/img/cover/39.png
+    - ./static/img/cover/40.png
+    - ./static/img/cover/41.png
+    - ./static/img/cover/42.png
+    - ./static/img/cover/43.png
+    - ./static/img/cover/44.png
+    - ./static/img/cover/45.png
+    - ./static/img/cover/46.png
+    - ./static/img/cover/47.png
+    - ./static/img/cover/48.png
+    - ./static/img/cover/49.png
+    - ./static/img/cover/50.png
+    - ./static/img/cover/51.png
+    - ./static/img/cover/52.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -581,7 +581,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(/img/bg.png)
+background: # url(/img/bg.png)
 
 # Footer Background
 footer_bg: false
@@ -942,14 +942,17 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-   - <link rel="stylesheet" href="/css/color.css">
-   - <link rel="stylesheet" href="/css/style.css">
-   - <link rel="stylesheet" href="/css/cursors.css">
-   - <link rel="stylesheet" href="/css/scrollbar.css">
-   - <link rel="stylesheet" href="/css/nav.css">
+   - <link rel="stylesheet" href="/static/css/iconfont.css">
+   - <link rel="stylesheet" href="/static/css/color.css">
+   - <link rel="stylesheet" href="/static/css/style.css">
+   - <link rel="stylesheet" href="/static/css/cursors.css">
+   - <link rel="stylesheet" href="/static/css/scrollbar.css">
+   - <link rel="stylesheet" href="/static/css/nav.css">
+   - <link rel="stylesheet" href="/static/css/rightMenu.css">
   bottom:
     - <script type="text/javascript" src="https://unpkg.zhimg.com/jquery@latest/dist/jquery.min.js"></script> #一定要放在所有引入的js前面！！！
-    - <script data-pjax type="text/javascript" src="/css/nav.js"></script>
+    - <script data-pjax type="text/javascript" src="/static/js/nav.js"></script>
+    - <script data-pjax type="text/javascript" src="/static/js/rightMenu.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
