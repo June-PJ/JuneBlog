@@ -551,7 +551,7 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#49B1F5"
+  main: "#E68282"
   paginator: "#00c4b6"
   button_hover: "#FF7242"
   text_selection: "#00c4b6"
@@ -563,7 +563,7 @@ theme_color:
   toc_color: "#00c4b6"
   blockquote_padding_color: "#49b1f5"
   blockquote_background_color: "#49b1f5"
-  scrollbar_color: "#49b1f5"
+  scrollbar_color: #"#49b1f5"
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
@@ -720,9 +720,10 @@ aside:
   mobile: true # display on mobile
   position: left # left or right
   display:
-    archive: true
-    tag: true
-    category: true
+    archive: false
+    tag: false
+    category: false
+    flink: false # 友链页隐藏侧栏
   card_author:
     enable: true
     description: 开摆
