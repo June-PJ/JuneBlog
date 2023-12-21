@@ -950,6 +950,7 @@ inject:
    - <link rel="stylesheet" href="/static/css/scrollbar.css">
    - <link rel="stylesheet" href="/static/css/nav.css">
    - <link rel="stylesheet" href="/static/css/rightMenu.css">
+   - <link rel="stylesheet" href="/static/css/footer.css">
   bottom:
     - <script type="text/javascript" src="https://unpkg.zhimg.com/jquery@latest/dist/jquery.min.js"></script> #一定要放在所有引入的js前面！！！
     - <script data-pjax type="text/javascript" src="/static/js/nav.js"></script>

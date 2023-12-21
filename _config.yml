@@ -7,13 +7,13 @@ title: June's Blog
 subtitle: '个人生活记录'
 description: ''
 keywords:
-author: June-PJ
+author: June
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://junxia.top/
+url: https://blog.junxia.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
