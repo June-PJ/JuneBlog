@@ -17,20 +17,6 @@
     display: flex;
 }
 
-/*.menus_item_child li:not(#sidebar-menus li){*/
-/*    float: left;*/
-/*    border-radius: 6px!important;*/
-/*    -webkit-border-radius: 6px!important;*/
-/*    -moz-border-radius: 6px!important;*/
-/*    -ms-border-radius: 6px!important;*/
-/*    -o-border-radius: 6px!important;*/
-/*}*/
-/*.menus_item_child:not(#sidebar-menus ul){*/
-/*    left:50%;*/
-/*    translate:-50%;*/
-/*}*/
-
-
 /*网站标题部分的增强版*/
 #site-name::before {
     opacity: 0;
@@ -67,10 +53,6 @@
 #site-name {
     position: relative;
     font-size: 24px; /*一定要把字体调大点，否则效果惨不忍睹！*/
-}
-
-:root {
-    --lyx-theme: #ed709b /*我的主题色*/
 }
 
 /*顶栏常驻*/
