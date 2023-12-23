@@ -10,8 +10,6 @@ tags:
   - Vercel
 ---
 
-## 
-
 ## 前言
 
 我的博客是基于Hexo搭建的，用的是Vercel的自动部署。然后发现我每次push的时候，发现文章的更新时间都会重置，于是就在网上寻找方案
@@ -54,7 +52,7 @@ yarn global add vercel
 
 安装完成后，输入命令`vercel login`，进行登录
 
-![image-20231223230232382](C:\Users\June\AppData\Roaming\Typora\typora-user-images\image-20231223230232382.png)
+![image-20231223230232382](https://cdn.jsdelivr.net/gh/June-PJ/PicGo-PJ/img/image-20231223230232382.png)
 
 然后在博客根目录下执行命令 `vercel link`，创建一个 Vercel 项目，此操作会在博客根目录下生成一个 `.vercel` 文件夹，`.vercel/project.json` 里面包含了 `VERCEL_ORG_ID` 和 `VERCEL_PROJECT_ID`
 
