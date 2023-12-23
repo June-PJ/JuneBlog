@@ -20,7 +20,7 @@ tags:
 
 [安知鱼 - 生活明朗 万物可爱 (anheyu.com)](https://blog.anheyu.com/)
 
-[[DORAKIKA | 热爱漫无边际，生活自有分寸！](https://blog.dorakika.cn/)
+[DORAKIKA | 热爱漫无边际，生活自有分寸！](https://blog.dorakika.cn/)
 
 [[ichikaの小窝 - 被发现了嗼](https://ichika.cc/)](https://blog.anheyu.com/)
 
