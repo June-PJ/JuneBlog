@@ -249,7 +249,7 @@ anchor:
 toc:
   post: true
   page: true
-  number: true
+  number: false
   expand: false
   style_simple: false # for post
   scroll_percent: true
