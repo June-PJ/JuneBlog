@@ -953,6 +953,8 @@ inject:
    - <link rel="stylesheet" href="/static/css/footer.css">
   bottom:
     - <script type="text/javascript" src="https://unpkg.zhimg.com/jquery@latest/dist/jquery.min.js"></script> #一定要放在所有引入的js前面！！！
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    - <script>LA.init({id:"3H7JnuxSqYNhMqPo",ck:"3H7JnuxSqYNhMqPo"})</script>
     - <script data-pjax type="text/javascript" src="/static/js/nav.js"></script>
     - <script data-pjax type="text/javascript" src="/static/js/rightMenu.js"></script>
 
